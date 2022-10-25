@@ -2,14 +2,11 @@
 ### Versionamentos de imagens para acmopanhamento da interface do projeto da Polifeira
 
 <details>
-  <summary>Minhas linguagens de programação e tecnologias por preferência</summary>
+  <summary>Guia das interfaces da Polifeira</summary>
   
-  * (**S**) Java
-  * (**A**) React, Typescript e NodeJS
-  * (**B**) SQL, JavaScript, Git e Python
-  * (**C**) NoSQL, PHP e C
-  * (**D**) Lua
-  * (**F**) C# e C++
+  * (**S**) A visão dos colaboradores administrativos ou não e bolsistas para a polifeira
+  * (**A**) A visão de interface para os feirantes após o acesso da plataforma
+  * (**B**) A visão inicial que qualquer pessoa recebe ao acessar o site da Polifeira sem um Login
 </details>
 
 ## **Visitante**

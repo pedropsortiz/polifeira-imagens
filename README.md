@@ -3,10 +3,9 @@
 
 <details>
   <summary>Guia das interfaces da Polifeira</summary>
-  
-  * (**S**) A visão dos colaboradores administrativos ou não e bolsistas para a polifeira
-  * (**A**) A visão de interface para os feirantes após o acesso da plataforma
-  * (**B**) A visão inicial que qualquer pessoa recebe ao acessar o site da Polifeira sem um Login
+  * (**Visitante**) A visão inicial que qualquer pessoa recebe ao acessar o site da Polifeira sem um Login
+  * (**Colaborador**) A visão dos colaboradores administrativos ou não e bolsistas para a polifeira
+  * (**Feirante**) A visão de interface para os feirantes após o acesso da plataforma
 </details>
 
 ## **Visitante**

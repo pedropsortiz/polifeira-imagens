@@ -39,9 +39,16 @@
 ![image](https://user-images.githubusercontent.com/78219497/198066601-5c2850e0-f7f7-4b8f-8239-e2b4270004ba.png)
 
 #### Exibição, cadastro, edição e exclusão dos feirantes
-![image](https://user-images.githubusercontent.com/78219497/198066676-39a301ab-a5f0-4b1f-ba79-50d5fe4760dd.png)
-![image](https://user-images.githubusercontent.com/78219497/198066775-49f2fd77-05f3-472e-86fd-818f6698c72a.png)
-![image](https://user-images.githubusercontent.com/78219497/198066813-91de5c4e-5f5d-4d6f-86fc-5988f70f7c8f.png)
+![image](https://user-images.githubusercontent.com/78219497/202708018-5ae2be67-5cd8-401a-be24-38f7e7de2389.png)
+
+![image](https://user-images.githubusercontent.com/78219497/202708177-8c2816ec-957f-4f19-bb26-b6f55ae8b2ce.png)
+![image](https://user-images.githubusercontent.com/78219497/202708204-b18e1288-6341-4f54-8f64-136850086bb1.png)
+![image](https://user-images.githubusercontent.com/78219497/202708243-b7ef40ce-5141-470b-b2e9-ae8d53f3c15e.png)
+![image](https://user-images.githubusercontent.com/78219497/202708282-2e72aaa0-7cfe-441b-a156-6cdb40fdf341.png)
+![image](https://user-images.githubusercontent.com/78219497/202708328-99360c3d-ce38-46e2-83af-afa43506f031.png)
+![image](https://user-images.githubusercontent.com/78219497/202708348-5e4e94e1-d3d4-4111-827c-aca9d27ce932.png)
+
+
 ![image](https://user-images.githubusercontent.com/78219497/198066929-c4acd407-52a0-45e0-b120-65a7f6e57f8e.png)
 ![image](https://user-images.githubusercontent.com/78219497/198066952-07bf560c-fab5-41b6-8815-746495398522.png)
 
